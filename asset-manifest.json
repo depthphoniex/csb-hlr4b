@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://depthphoniex.github.io/csb-hlr4b/static/css/main.92261c40.chunk.css",
+    "main.js": "https://depthphoniex.github.io/csb-hlr4b/static/js/main.f800c104.chunk.js",
+    "main.js.map": "https://depthphoniex.github.io/csb-hlr4b/static/js/main.f800c104.chunk.js.map",
+    "runtime-main.js": "https://depthphoniex.github.io/csb-hlr4b/static/js/runtime-main.42072081.js",
+    "runtime-main.js.map": "https://depthphoniex.github.io/csb-hlr4b/static/js/runtime-main.42072081.js.map",
+    "static/js/2.630a3eed.chunk.js": "https://depthphoniex.github.io/csb-hlr4b/static/js/2.630a3eed.chunk.js",
+    "static/js/2.630a3eed.chunk.js.map": "https://depthphoniex.github.io/csb-hlr4b/static/js/2.630a3eed.chunk.js.map",
+    "index.html": "https://depthphoniex.github.io/csb-hlr4b/index.html",
+    "static/css/main.92261c40.chunk.css.map": "https://depthphoniex.github.io/csb-hlr4b/static/css/main.92261c40.chunk.css.map",
+    "static/js/2.630a3eed.chunk.js.LICENSE.txt": "https://depthphoniex.github.io/csb-hlr4b/static/js/2.630a3eed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42072081.js",
+    "static/js/2.630a3eed.chunk.js",
+    "static/css/main.92261c40.chunk.css",
+    "static/js/main.f800c104.chunk.js"
+  ]
+}
